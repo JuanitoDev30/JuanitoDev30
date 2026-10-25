@@ -25,7 +25,7 @@ manual, repetitive work runs on its own.
 
 | Area | Technologies |
 |---|---|
-| **AI & automation** | <img src="https://skillicons.dev/icons?i=python,bash" height="32" /> &nbsp; Claude API · LLM agents · n8n · Playwright |
+| **AI & automation** | <img src="https://skillicons.dev/icons?i=python,bash" height="32" /> &nbsp; · LLM agents  · Playwright |
 | **Backend** | <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,express" height="32" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,redux,tailwind" height="32" /> &nbsp; React Query |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=react,kotlin,java" height="32" /> &nbsp; React Native |
